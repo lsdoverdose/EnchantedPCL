@@ -13,6 +13,10 @@
 
 <br/>
 
+### 隐藏提示
+
+在注册表项中添加 "UiLauncherCEHint" 字符串值，值设置为 False 即可
+
 ### 相关资源
 - [PCL 社区版仓库](https://github.com/PCL-Community/PCL2-CE)： PCL2 社区版的开源代码存储库
 - [PCL 官方存储库](https://github.com/Hex-Dragon/PCL2)：PCL 的官方开源代码存储库
